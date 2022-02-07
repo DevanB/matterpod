@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[Matter for Devan Beitel]]></title>
+		<description><![CDATA[Your Matter audio feed.]]></description>
+		<link>https://getmatter.app/devanb/</link>
+		<image>
+			<url>https://getmatter.app/devanb/</url>
+			<title>Matter for Devan Beitel</title>
+			<link>https://getmatter.app/devanb/</link>
+		</image>
+		<generator>MatterPod by Federico Viticci</generator>
+		<lastBuildDate>Sun, 06 Feb 2022 22:17:03 -0500</lastBuildDate>
+		<atom:link href="https://somewhere.netlify.app/rss.xml" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[© 2022 MacStories, Inc.]]></copyright>
+		<language><![CDATA[en-us]]></language>
+		<itunes:author>Matter</itunes:author>
+		<itunes:summary>These are the audio versions of stories saved in your Matter queue.</itunes:summary>
+		<itunes:owner>
+			<itunes:name>Federico Viticci</itunes:name>
+			<itunes:email>club@macstories.net</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:block>Yes</itunes:block>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://media.getmatter.app/media/profile_avatar_photo/2022/01/02/BE7CA998-C6FB-47BB-86C5-36DE0C283232.jpg.200x200_q95ss0_crop-smart_upscale.jpg"/>
+<item>
+			<title><![CDATA[Journal Prompts - MacSparky]]></title>
+			<description><![CDATA[I am a big fan of journaling and I find journal prompts one of the best ways to help myself get unstuck. Also, I collect and hoard journal prompts with a Smeagol-like passion.]]></description>
+			<link>https://www.macsparky.com/journalprompts/</link>
+			<guid isPermaLink="false">4_1771415</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/21/8e01ca3217c8eb3a2627a78b2b6e24f7.mp3" length="1516941" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I am a big fan of journaling and I find journal prompts one of the best ways to help myself get unstuck. Also, I collect and hoard journal prompts with a Smeagol-like passion.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I am a big fan of journaling and I find journal prompts one of the best ways to help myself get unstuck. Also, I collect and hoard journal prompts with a Smeagol-like passion.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:13</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>50</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to improve your focus in 2021]]></title>
+			<description><![CDATA[I recently finished the book "Deep Work" by Cal Newport, and I highly recommend it as a holiday read if you want to improve your ability to focus on complicated tasks without distraction - especially if you're a software developer.]]></description>
+			<link>https://dev.to/carmenhchung/how-to-improve-your-focus-in-2021-1cce</link>
+			<guid isPermaLink="false">4_1912310</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/01c6faa841d02c17205865907821384f.mp3" length="2430621" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I recently finished the book "Deep Work" by Cal Newport, and I highly recommend it as a holiday read if you want to improve your ability to focus on complicated tasks without distraction - especially if you're a software developer.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I recently finished the book "Deep Work" by Cal Newport, and I highly recommend it as a holiday read if you want to improve your ability to focus on complicated tasks without distraction - especially if you're a software developer.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:45</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>49</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How I Learned to Stop Worrying and Love the Nap]]></title>
+			<description><![CDATA[This side effect will often be worse after a long nap rather than a short one. I’ve found 30 minutes to be the sweet spot for me.]]></description>
+			<link>https://www.nytimes.com/wirecutter/blog/how-i-learned-to-love-the-nap/</link>
+			<guid isPermaLink="false">4_1912309</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/a0f939ec805dc5786b7289a5e3790aec.mp3" length="1320237" type="audio/mpeg"/>
+			<content:encoded><![CDATA[This side effect will often be worse after a long nap rather than a short one. I’ve found 30 minutes to be the sweet spot for me.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>This side effect will often be worse after a long nap rather than a short one. I’ve found 30 minutes to be the sweet spot for me.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:40</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>46</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Reading Too Much Political News Is Bad for Your Well-Being]]></title>
+			<description><![CDATA[They explained this by noting the dominance of negative stories on such programs, and the powerlessness viewers might feel in the face of all that bad news.]]></description>
+			<link>https://www.theatlantic.com/family/archive/2020/10/reading-too-much-political-news-bad-happiness/616651/</link>
+			<guid isPermaLink="false">4_72201</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2020/11/30/30161efcf93b3226da6eb2a58c5a4dac.mp3" length="3578925" type="audio/mpeg"/>
+			<content:encoded><![CDATA[They explained this by noting the dominance of negative stories on such programs, and the powerlessness viewers might feel in the face of all that bad news.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>They explained this by noting the dominance of negative stories on such programs, and the powerlessness viewers might feel in the face of all that bad news.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:56</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>45</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Jumpstart Your Journaling: A 31-Day Challenge]]></title>
+			<description><![CDATA[With that in mind, I’d like to present a 31-day roadmap and challenge for your journaling. Doing something for around 30 days is a great way to not only build a habit, but to also explore if it’s right for you.]]></description>
+			<link>https://www.artofmanliness.com/character/behavior/jumpstart-your-journaling-a-31-day-challenge/</link>
+			<guid isPermaLink="false">4_1912306</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/54c6334129a926a71a6d5c270b643dd6.mp3" length="2819997" type="audio/mpeg"/>
+			<content:encoded><![CDATA[With that in mind, I’d like to present a 31-day roadmap and challenge for your journaling. Doing something for around 30 days is a great way to not only build a habit, but to also explore if it’s right for you.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>With that in mind, I’d like to present a 31-day roadmap and challenge for your journaling. Doing something for around 30 days is a great way to not only build a habit, but to also explore if it’s right for you.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:50</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[16 Ways to Become a Better Man in the New Year]]></title>
+			<description><![CDATA[It improves mental and physical health and furnishes opportunities to do service. At the very least, it provides an all-too-rare chance to engage in some group singing.]]></description>
+			<link>https://www.artofmanliness.com/character/behavior/16-ways-to-become-a-better-man-in-the-new-year/</link>
+			<guid isPermaLink="false">4_1499537</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/05/81f50fc81134b056a27bdec1700a919d.mp3" length="2910285" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It improves mental and physical health and furnishes opportunities to do service. At the very least, it provides an all-too-rare chance to engage in some group singing.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It improves mental and physical health and furnishes opportunities to do service. At the very least, it provides an all-too-rare chance to engage in some group singing.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:08:05</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>43</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to Start Mindful Journaling (With Journaling Ideas!)]]></title>
+			<description><![CDATA[Start writing! Developing mindful living with a regular writing habit is a powerful commitment, but starting a journal is ultimately very simple: set pen to paper and start writing.]]></description>
+			<link>https://www.brettlarkin.com/how-to-start-mindful-journaling-journaling-ideas/</link>
+			<guid isPermaLink="false">4_1912304</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/8900df0bed296deca3493f4ec45653c2.mp3" length="3177837" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Start writing! Developing mindful living with a regular writing habit is a powerful commitment, but starting a journal is ultimately very simple: set pen to paper and start writing.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Start writing! Developing mindful living with a regular writing habit is a powerful commitment, but starting a journal is ultimately very simple: set pen to paper and start writing.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:08:50</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>42</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Yoga Butt Is A Real Pain In The You Know What]]></title>
+			<description><![CDATA[Those are the two most common causes of yoga butt injuries, but there are other reasons you might be in this predicament.]]></description>
+			<link>https://www.womenshealthmag.com/fitness/a30028203/yoga-butt-injury/</link>
+			<guid isPermaLink="false">4_1912303</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/0415fd2539b5dae76d8244425f230e11.mp3" length="2600397" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Those are the two most common causes of yoga butt injuries, but there are other reasons you might be in this predicament.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Those are the two most common causes of yoga butt injuries, but there are other reasons you might be in this predicament.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:13</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>41</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[A Framework for the First Session with a Private Yoga Student]]></title>
+			<description><![CDATA[I am not a psychotherapist or a physical therapist and I am not even a yoga therapist {even though I have spent years in a serious study of yoga therapeutics, anatomy and biomechanics}. I am a private yoga teacher.]]></description>
+			<link>https://www.francescacervero.com/first-session-private-yoga-student/</link>
+			<guid isPermaLink="false">4_1912301</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/3e1d66e9b6a3f187e55025d06fe93d67.mp3" length="3379581" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I am not a psychotherapist or a physical therapist and I am not even a yoga therapist {even though I have spent years in a serious study of yoga therapeutics, anatomy and biomechanics}. I am a private yoga teacher.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I am not a psychotherapist or a physical therapist and I am not even a yoga therapist {even though I have spent years in a serious study of yoga therapeutics, anatomy and biomechanics}. I am a private yoga teacher.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:23</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>40</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Anxiety Is in Your Body, Not Your Mind]]></title>
+			<description><![CDATA[Now your body is primed for fight-or-flight, your heart is racing, you’re totally jacked up on adrenaline… but there is no danger. This is your body on anxiety.]]></description>
+			<link>https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb</link>
+			<guid isPermaLink="false">4_219777</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/04/12/6e3dc5d9c59ac35b7418f83e96fd58c1.mp3" length="2089965" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Now your body is primed for fight-or-flight, your heart is racing, you’re totally jacked up on adrenaline… but there is no danger. This is your body on anxiety.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Now your body is primed for fight-or-flight, your heart is racing, you’re totally jacked up on adrenaline… but there is no danger. This is your body on anxiety.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:48</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>39</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[the dream starter pack]]></title>
+			<description><![CDATA[meet your nightly drink for better sleep. try ten nights of our best-selling dream powder with the dream starter pack.]]></description>
+			<link>https://beamorganics.com/pages/dream-starter-pack</link>
+			<guid isPermaLink="false">4_1912296</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/d77677b653298d5089e62421d1e96be0.mp3" length="1010205" type="audio/mpeg"/>
+			<content:encoded><![CDATA[meet your nightly drink for better sleep. try ten nights of our best-selling dream powder with the dream starter pack.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>meet your nightly drink for better sleep. try ten nights of our best-selling dream powder with the dream starter pack.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:48</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>37</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How our blankets teach the art of folding a yoga blanket]]></title>
+			<description><![CDATA[YOGA BLANKETS ARE A TOOL THAT ASSIST AND PROTECT YOUR BODY A yoga blanket makes a versatile yoga prop.When beginning a new practice, the postures may feel awkward or unachievable.]]></description>
+			<link>https://priticollection.com/pages/educating-how-blankets-assist-with-asana-and-protect-your-body</link>
+			<guid isPermaLink="false">4_1912254</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/8fe6592753839aa0828418f3c0c343d4.mp3" length="612765" type="audio/mpeg"/>
+			<content:encoded><![CDATA[YOGA BLANKETS ARE A TOOL THAT ASSIST AND PROTECT YOUR BODY A yoga blanket makes a versatile yoga prop.When beginning a new practice, the postures may feel awkward or unachievable.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>YOGA BLANKETS ARE A TOOL THAT ASSIST AND PROTECT YOUR BODY A yoga blanket makes a versatile yoga prop.When beginning a new practice, the postures may feel awkward or unachievable.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:42</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>36</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to have a meaningful weekend as a programmer?]]></title>
+			<description><![CDATA[I want to share some of my tips to have a beautiful weekend. Most probably you are reading this post because you also want to make your weekends meaningful and memorable.]]></description>
+			<link>https://dev.to/poudyal_rabin/how-to-spend-a-meaningful-weekend-as-a-programmer-353j</link>
+			<guid isPermaLink="false">4_1472858</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/88a55addae9bcdb886a22f2fbcf14705.mp3" length="1932381" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I want to share some of my tips to have a beautiful weekend. Most probably you are reading this post because you also want to make your weekends meaningful and memorable.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I want to share some of my tips to have a beautiful weekend. Most probably you are reading this post because you also want to make your weekends meaningful and memorable.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:22</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>35</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How Fit Can You Get From Just Walking?]]></title>
+			<description><![CDATA[But the whole experience made me wonder: just how fit can you get from just walking ? "I think walking is probably the single most underutilized tool in health and wellness," says nutrition coach and personal trainer Jeremy Fernandes.]]></description>
+			<link>https://www.gq.com/story/get-fit-from-just-walking</link>
+			<guid isPermaLink="false">4_223704</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/04/08/81318a72ad8195d449b25bfb263a822b.mp3" length="1029165" type="audio/mpeg"/>
+			<content:encoded><![CDATA[But the whole experience made me wonder: just how fit can you get from just walking ? "I think walking is probably the single most underutilized tool in health and wellness," says nutrition coach and personal trainer Jeremy Fernandes.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>But the whole experience made me wonder: just how fit can you get from just walking ? "I think walking is probably the single most underutilized tool in health and wellness," says nutrition coach and personal trainer Jeremy Fernandes.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:52</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>34</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Do You Spend Too Much Eating Out? Try This.]]></title>
+			<description><![CDATA[Dig in to Your ‘Dining out’ Category To supercharge your focus on cutting down your food spending, try reorganizing your budget to highlight the reasons that you spend at restaurants.]]></description>
+			<link>https://www.youneedabudget.com/do-you-spend-too-much-eating-out-try-this/</link>
+			<guid isPermaLink="false">4_518594</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/10/17/9b478f987fc618f68f2bb821160fe38f.mp3" length="1087149" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Dig in to Your ‘Dining out’ Category To supercharge your focus on cutting down your food spending, try reorganizing your budget to highlight the reasons that you spend at restaurants.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Dig in to Your ‘Dining out’ Category To supercharge your focus on cutting down your food spending, try reorganizing your budget to highlight the reasons that you spend at restaurants.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:01</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>33</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The 8 Limbs of Yoga Simplified (Kind of)]]></title>
+			<description><![CDATA[Breaking Down the Eight Limbs The eight limbs define the practice of yoga, which can really help any practitioner understand the intricacies, beauty, and potentiality of this practice.]]></description>
+			<link>https://www.doyou.com/the-8-limbs-of-yoga-simplified-kind-of/</link>
+			<guid isPermaLink="false">4_1912252</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/047a02e6bc61e7fe914966b336a62af6.mp3" length="1915101" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Breaking Down the Eight Limbs The eight limbs define the practice of yoga, which can really help any practitioner understand the intricacies, beauty, and potentiality of this practice.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Breaking Down the Eight Limbs The eight limbs define the practice of yoga, which can really help any practitioner understand the intricacies, beauty, and potentiality of this practice.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:19</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>32</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Code review is too late for code quality]]></title>
+			<description><![CDATA[Version code quality along with your repository A common mistake when rolling out code quality tooling is managing it outside of the target repository.]]></description>
+			<link>https://github.com/readme/guides/code-review?mc_cid=acb0681fa4</link>
+			<guid isPermaLink="false">4_913926</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/11/17/58a904c327c98ae6513baacecc50d14a.mp3" length="1698669" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Version code quality along with your repository A common mistake when rolling out code quality tooling is managing it outside of the target repository.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Version code quality along with your repository A common mistake when rolling out code quality tooling is managing it outside of the target repository.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:43</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>31</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Want to Strengthen Your Immune System? Science Says Do More Yoga.]]></title>
+			<description><![CDATA[In a recent review of more than 100 different scientific studies on yoga and immunity, researchers found evidence to suggest that meditation and yoga should be considered as potential adjunctive treatment options for COVID-19.]]></description>
+			<link>https://www.yogajournal.com/yoga-101/strength-your-immune-system-with-yoga/</link>
+			<guid isPermaLink="false">4_1912249</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/d02873cc3866ac0955477c1b4348fd93.mp3" length="1180557" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In a recent review of more than 100 different scientific studies on yoga and immunity, researchers found evidence to suggest that meditation and yoga should be considered as potential adjunctive treatment options for COVID-19.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>In a recent review of more than 100 different scientific studies on yoga and immunity, researchers found evidence to suggest that meditation and yoga should be considered as potential adjunctive treatment options for COVID-19.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:17</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>30</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Managing Product Development by Integrating Around Concerns]]></title>
+			<description><![CDATA[And while the product doesn’t exist yet, there are hundreds of individual points I can imagine should be addressed. Take for example a product for managing conferences.]]></description>
+			<link>https://medium.com/@rjs/managing-product-development-by-integrating-around-concerns-77640bcde28d</link>
+			<guid isPermaLink="false">4_355774</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/07/14/49c92a5df095835d2900ed4bf780e8f6.mp3" length="1934157" type="audio/mpeg"/>
+			<content:encoded><![CDATA[And while the product doesn’t exist yet, there are hundreds of individual points I can imagine should be addressed. Take for example a product for managing conferences.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>And while the product doesn’t exist yet, there are hundreds of individual points I can imagine should be addressed. Take for example a product for managing conferences.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:22</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>29</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to get good at chess]]></title>
+			<description><![CDATA[We are mere mortals. So how do we get good? First, by loving chess. “You can only get good at chess if you love the game,” Fischer said.]]></description>
+			<link>https://www.theguardian.com/sport/2020/nov/14/how-to-get-good-at-chess-the-queens-gambit</link>
+			<guid isPermaLink="false">4_257087</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/05/08/3272be760719e0132c973ad74e759b38.mp3" length="1194669" type="audio/mpeg"/>
+			<content:encoded><![CDATA[We are mere mortals. So how do we get good? First, by loving chess. “You can only get good at chess if you love the game,” Fischer said.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>We are mere mortals. So how do we get good? First, by loving chess. “You can only get good at chess if you love the game,” Fischer said.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:19</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>28</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Brew's Bookshelf]]></title>
+			<description><![CDATA[We juiced up Brew's Bookshelf with plenty of book recs to carry you through the summer. We even divided them into nice little categories.]]></description>
+			<link>https://www.morningbrew.com/daily/stories/2021/05/28/brews-bookshelf</link>
+			<guid isPermaLink="false">4_1912246</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/c0575190acf3887771a4e33b8928eea4.mp3" length="386541" type="audio/mpeg"/>
+			<content:encoded><![CDATA[We juiced up Brew's Bookshelf with plenty of book recs to carry you through the summer. We even divided them into nice little categories.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>We juiced up Brew's Bookshelf with plenty of book recs to carry you through the summer. We even divided them into nice little categories.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:04</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>27</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to be good at Code Reviews]]></title>
+			<description><![CDATA[SonarQube is one of those tools that will improve code reviews for everyone in your team. It can find style issues but can do so much more. With their code analysis, they can find the most common mistakes you can do in your code.]]></description>
+			<link>https://dev.to/pavel_polivka/how-to-be-good-at-code-reviews-2lpl</link>
+			<guid isPermaLink="false">4_1912244</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/b78bf5f416c8fe877164e80fc14873b7.mp3" length="1199709" type="audio/mpeg"/>
+			<content:encoded><![CDATA[SonarQube is one of those tools that will improve code reviews for everyone in your team. It can find style issues but can do so much more. With their code analysis, they can find the most common mistakes you can do in your code.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>SonarQube is one of those tools that will improve code reviews for everyone in your team. It can find style issues but can do so much more. With their code analysis, they can find the most common mistakes you can do in your code.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:20</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>26</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Getting past collection in your GTD system]]></title>
+			<description><![CDATA[In Chapter 2 under Collection Success Factors, he listed three requirements to make your collection successful: Every open loop must be in your collection system and out of your head.]]></description>
+			<link>https://thesweetsetup.com/getting-past-collection-gtd/</link>
+			<guid isPermaLink="false">4_1912243</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/95364480a4006039bcbedc890838407e.mp3" length="1825677" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In Chapter 2 under Collection Success Factors, he listed three requirements to make your collection successful: Every open loop must be in your collection system and out of your head.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>In Chapter 2 under Collection Success Factors, he listed three requirements to make your collection successful: Every open loop must be in your collection system and out of your head.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:04</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>25</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Progress Isn't Linear]]></title>
+			<description><![CDATA[It’s progress, it’s just not linear. Making Progress on Being a Mope Hasn’t Been Linear Either Another area where I’ve seen progress, but not linearly, is my mood.]]></description>
+			<link>https://www.artofmanliness.com/character/habits/progress-isnt-linear/</link>
+			<guid isPermaLink="false">4_1524541</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/04/5e665cfc6d1c3e1a3ce9e3f27ca62161.mp3" length="2555757" type="audio/mpeg"/>
+			<content:encoded><![CDATA[It’s progress, it’s just not linear. Making Progress on Being a Mope Hasn’t Been Linear Either Another area where I’ve seen progress, but not linearly, is my mood.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>It’s progress, it’s just not linear. Making Progress on Being a Mope Hasn’t Been Linear Either Another area where I’ve seen progress, but not linearly, is my mood.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:07:06</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[10 Books (and One Letter) Every New Calvinist Needs to Read]]></title>
+			<description><![CDATA[John Newton’s letter "On Controversy" Although it’s not a book, I would encourage every new Calvinist to read and re-read this letter.]]></description>
+			<link>https://www.ligonier.org/learn/articles/10-books-and-one-letter-every-new-calvinist-needs-read</link>
+			<guid isPermaLink="false">4_1912242</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/0f2b1e9044b2dbf6dcba347a821f322b.mp3" length="1293741" type="audio/mpeg"/>
+			<content:encoded><![CDATA[John Newton’s letter "On Controversy" Although it’s not a book, I would encourage every new Calvinist to read and re-read this letter.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>John Newton’s letter "On Controversy" Although it’s not a book, I would encourage every new Calvinist to read and re-read this letter.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:36</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>23</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Here’s a Calendar Trick to Ease Post-Pandemic Reentry]]></title>
+			<description><![CDATA[For iCloud Calendar, you can create a new calendar right on your iPhone. Navigate to the default calendar app.On the bottom center of your screen, tap Calendar. Next, click Add Calendar on the bottom left.]]></description>
+			<link>https://www.wired.com/story/calendar-tips-post-pandemic-reentry-organization/</link>
+			<guid isPermaLink="false">4_1912241</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/c7631fa17fd45c049d6d78f21d08c7dc.mp3" length="3201741" type="audio/mpeg"/>
+			<content:encoded><![CDATA[For iCloud Calendar, you can create a new calendar right on your iPhone. Navigate to the default calendar app.On the bottom center of your screen, tap Calendar. Next, click Add Calendar on the bottom left.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>For iCloud Calendar, you can create a new calendar right on your iPhone. Navigate to the default calendar app.On the bottom center of your screen, tap Calendar. Next, click Add Calendar on the bottom left.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:08:54</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>22</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[It’s Time to Reclaim Your Weekends]]></title>
+			<description><![CDATA[So, generally, I don’t look at weekends as necessarily the time that I designate to taking time for myself.]]></description>
+			<link>https://www.shondaland.com/live/a36099568/its-time-to-reclaim-your-weekends/</link>
+			<guid isPermaLink="false">4_1912240</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/a1aecc280cf811611319a51ce9cb9fcf.mp3" length="2274669" type="audio/mpeg"/>
+			<content:encoded><![CDATA[So, generally, I don’t look at weekends as necessarily the time that I designate to taking time for myself.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>So, generally, I don’t look at weekends as necessarily the time that I designate to taking time for myself.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:19</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Get a Basic Overview of the Bible]]></title>
+			<description><![CDATA[We lack a road map to help us through these difficult portions of the Bible. Begin with an Overview of the Bible Here’s my recommendation: begin with an overview of the Bible. Get the basic framework first.]]></description>
+			<link>https://www.ligonier.org/learn/articles/get-basic-overview-bible</link>
+			<guid isPermaLink="false">4_1883211</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/02/a55c78d8478f6789e8212a8c9e5eb7fd.mp3" length="1459197" type="audio/mpeg"/>
+			<content:encoded><![CDATA[We lack a road map to help us through these difficult portions of the Bible. Begin with an Overview of the Bible Here’s my recommendation: begin with an overview of the Bible. Get the basic framework first.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>We lack a road map to help us through these difficult portions of the Bible. Begin with an Overview of the Bible Here’s my recommendation: begin with an overview of the Bible. Get the basic framework first.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:03</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Social rules - Recurse Center]]></title>
+			<description><![CDATA[The social rules aren’t for punishing people. They help make RC a pleasant environment where you are free to be yourself, tackle things outside your comfort zone, and focus on programming.]]></description>
+			<link>https://www.recurse.com/social-rules</link>
+			<guid isPermaLink="false">4_1912239</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/f6822b42a9e302ef56c3039be2114974.mp3" length="1682109" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The social rules aren’t for punishing people. They help make RC a pleasant environment where you are free to be yourself, tackle things outside your comfort zone, and focus on programming.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The social rules aren’t for punishing people. They help make RC a pleasant environment where you are free to be yourself, tackle things outside your comfort zone, and focus on programming.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:40</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[This One is for the Boys: Men and Journaling]]></title>
+			<description><![CDATA[One look at all the flowers, cartoon characters, and pastel colors, and some men might decide that, nah, bullet journaling is NOT for them. But keep in mind, dear male readers, that history is riddled with men who kept writing journals.]]></description>
+			<link>https://sohospark.com/blogs/news/this-one-is-for-the-boys-men-and-journaling</link>
+			<guid isPermaLink="false">4_1912236</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/db52c319f265240f7dbf85665bc6012c.mp3" length="1683837" type="audio/mpeg"/>
+			<content:encoded><![CDATA[One look at all the flowers, cartoon characters, and pastel colors, and some men might decide that, nah, bullet journaling is NOT for them. But keep in mind, dear male readers, that history is riddled with men who kept writing journals.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>One look at all the flowers, cartoon characters, and pastel colors, and some men might decide that, nah, bullet journaling is NOT for them. But keep in mind, dear male readers, that history is riddled with men who kept writing journals.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:41</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Code of Conduct]]></title>
+			<description><![CDATA[We value your attendance. We expect participants to follow these rules at event and all venues and event-related social events. This Code of Conduct is adapted from Conference Code of Conduct.]]></description>
+			<link>https://kentcdodds.com/conduct</link>
+			<guid isPermaLink="false">4_1912223</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/04d7da80f68c32d83b53bd4a1e912f46.mp3" length="876141" type="audio/mpeg"/>
+			<content:encoded><![CDATA[We value your attendance. We expect participants to follow these rules at event and all venues and event-related social events. This Code of Conduct is adapted from Conference Code of Conduct.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>We value your attendance. We expect participants to follow these rules at event and all venues and event-related social events. This Code of Conduct is adapted from Conference Code of Conduct.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:26</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How Gratitude can make you a better developer]]></title>
+			<description><![CDATA[I want to take this opportunity to share with you some of the things I'm grateful for and also explain why I think that gratitude can help you be a better software engineer and a better person.]]></description>
+			<link>https://kentcdodds.com/blog/how-gratitude-can-make-you-a-better-developer</link>
+			<guid isPermaLink="false">4_1912222</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/59656d8a21462dc07f7c17accef0629c.mp3" length="1777005" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I want to take this opportunity to share with you some of the things I'm grateful for and also explain why I think that gratitude can help you be a better software engineer and a better person.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I want to take this opportunity to share with you some of the things I'm grateful for and also explain why I think that gratitude can help you be a better software engineer and a better person.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:56</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[What a Wirecutter Editor (and Tea Fanatic) Uses to Make Tea Every Day]]></title>
+			<description><![CDATA[In my adult years, I’ve gone beyond Twinings and tea bags into a whole world of loose-leaf tea nerdery. As an editor here at Wirecutter, I brew multiple pots a day as my caffeine source.]]></description>
+			<link>https://www.nytimes.com/wirecutter/blog/wirecutter-editor-tea-picks/</link>
+			<guid isPermaLink="false">4_995125</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/11/21/953692a82f4ae63a90f9aac399a6231c.mp3" length="1294317" type="audio/mpeg"/>
+			<content:encoded><![CDATA[In my adult years, I’ve gone beyond Twinings and tea bags into a whole world of loose-leaf tea nerdery. As an editor here at Wirecutter, I brew multiple pots a day as my caffeine source.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>In my adult years, I’ve gone beyond Twinings and tea bags into a whole world of loose-leaf tea nerdery. As an editor here at Wirecutter, I brew multiple pots a day as my caffeine source.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:36</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Bartender 4.0 Offers Powerful New Control Over Your Mac&#8217;s Menu Bar Apps]]></title>
+			<description><![CDATA[The Bartender Bar. Hidden items can alternatively appear in the Bartender Bar, which is essentially a secondary menu bar that appears below the system menu bar when Bartender is triggered.]]></description>
+			<link>https://www.macstories.net/reviews/bartender-4-0-offers-powerful-new-control-over-your-macs-menu-bar-apps/</link>
+			<guid isPermaLink="false">4_1912221</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/290c6b6aa43141c1432b541211f01700.mp3" length="1660653" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The Bartender Bar. Hidden items can alternatively appear in the Bartender Bar, which is essentially a secondary menu bar that appears below the system menu bar when Bartender is triggered.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The Bartender Bar. Hidden items can alternatively appear in the Bartender Bar, which is essentially a secondary menu bar that appears below the system menu bar when Bartender is triggered.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:37</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[8 Excellent Technical Talks That'll Change How You Think]]></title>
+			<description><![CDATA[Even though I’m someone who does frontend development for a living, most of the talks that were most illuminating for me are technical talks that are either language-agnostic or unrelated to my daily work.]]></description>
+			<link>https://monicalent.com/blog/2019/01/01/favorite-programming-talks/</link>
+			<guid isPermaLink="false">4_1409294</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/8d02742e56e3e252a57825a030d48931.mp3" length="1261197" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Even though I’m someone who does frontend development for a living, most of the talks that were most illuminating for me are technical talks that are either language-agnostic or unrelated to my daily work.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Even though I’m someone who does frontend development for a living, most of the talks that were most illuminating for me are technical talks that are either language-agnostic or unrelated to my daily work.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:30</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Using BetterTouchTool and Keyboard Maestro to Make the Touch Bar Much More Useful]]></title>
+			<description><![CDATA[Turns out, you can even have BetterTouchTool become a trigger for Keyboard Maestro.]]></description>
+			<link>https://512pixels.net/2020/11/bettertouchtool-keyboard-maestro-touch-bar/</link>
+			<guid isPermaLink="false">4_1373660</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/f2bad82b9b1200ba5c21e257bedde1a2.mp3" length="727389" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Turns out, you can even have BetterTouchTool become a trigger for Keyboard Maestro.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Turns out, you can even have BetterTouchTool become a trigger for Keyboard Maestro.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:01</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Setting Up a Custom Domain for iCloud Email]]></title>
+			<description><![CDATA[You can, however, see custom email addresses and set one as default on the beta iCloud website, as shown below. You can set your custom email address as the default for iCloud on the web.]]></description>
+			<link>https://www.macstories.net/ios/setting-up-a-custom-domain-for-icloud-email/</link>
+			<guid isPermaLink="false">4_1275891</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/05/a23d6b6b1e6fd1a22cbecccf5d7976e2.mp3" length="1732653" type="audio/mpeg"/>
+			<content:encoded><![CDATA[You can, however, see custom email addresses and set one as default on the beta iCloud website, as shown below. You can set your custom email address as the default for iCloud on the web.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>You can, however, see custom email addresses and set one as default on the beta iCloud website, as shown below. You can set your custom email address as the default for iCloud on the web.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:49</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[5 Recommended Resources on Interpreting Scripture]]></title>
+			<description><![CDATA[Below are some resources, curated by the Ligonier editorial team, that can assist you in the journey of being a lifelong student of God’s Word.]]></description>
+			<link>https://www.ligonier.org/learn/articles/recommended-resources-interpreting-scripture</link>
+			<guid isPermaLink="false">4_1883129</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/02/5bbab2d3176a501e41dd10e572b823a6.mp3" length="716301" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Below are some resources, curated by the Ligonier editorial team, that can assist you in the journey of being a lifelong student of God’s Word.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Below are some resources, curated by the Ligonier editorial team, that can assist you in the journey of being a lifelong student of God’s Word.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:01:59</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The Right and Wrong Way to Journal]]></title>
+			<description><![CDATA[The Journaling Trap Given that we all journal for different reasons, it can’t always be said that there’s a right and wrong way to do it.]]></description>
+			<link>https://www.artofmanliness.com/character/advice/the-right-and-wrong-way-to-journal/</link>
+			<guid isPermaLink="false">4_1736856</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/20/339db72b5876060b4a2ea090112513b3.mp3" length="2304765" type="audio/mpeg"/>
+			<content:encoded><![CDATA[The Journaling Trap Given that we all journal for different reasons, it can’t always be said that there’s a right and wrong way to do it.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>The Journaling Trap Given that we all journal for different reasons, it can’t always be said that there’s a right and wrong way to do it.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:06:24</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The Biggest Benefit of Exercising Outside in the Winter]]></title>
+			<description><![CDATA[Of course, there’s an inevitable catch-22 here: exercising outside can mitigate your feelings of melancholy, but when you’re feeling melancholy, you don’t feel like exercising at all, much less exercising outside in the cold.]]></description>
+			<link>https://www.artofmanliness.com/health-fitness/fitness/the-biggest-benefit-of-exercising-in-the-cold/</link>
+			<guid isPermaLink="false">4_1838034</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/01/28/8c7b733bc4caead066d0ee2378216435.mp3" length="1642509" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Of course, there’s an inevitable catch-22 here: exercising outside can mitigate your feelings of melancholy, but when you’re feeling melancholy, you don’t feel like exercising at all, much less exercising outside in the cold.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Of course, there’s an inevitable catch-22 here: exercising outside can mitigate your feelings of melancholy, but when you’re feeling melancholy, you don’t feel like exercising at all, much less exercising outside in the cold.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:34</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[The Best Management Books Developers Should Read, Too]]></title>
+			<description><![CDATA[Read this book if you think you might want to go into management but aren’t sure what to expect. Reading time: Two weekends By Andy Grove This is a management classic, and one I re-read this year.]]></description>
+			<link>https://monicalent.com/blog/2019/02/26/best-tech-management-books/</link>
+			<guid isPermaLink="false">4_1912210</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/3ae07c304d64012b70ae199efcfea2a0.mp3" length="1261917" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Read this book if you think you might want to go into management but aren’t sure what to expect. Reading time: Two weekends By Andy Grove This is a management classic, and one I re-read this year.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Read this book if you think you might want to go into management but aren’t sure what to expect. Reading time: Two weekends By Andy Grove This is a management classic, and one I re-read this year.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:30</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Soli Deo Gloria: To God Alone Be the Glory]]></title>
+			<description><![CDATA[Soli Deo gloria is the motto that grew out of the Protestant Reformation and was used on every composition by Johann Sebastian Bach.]]></description>
+			<link>https://www.ligonier.org/learn/articles/soli-deo-gloria-god-alone-be-glory</link>
+			<guid isPermaLink="false">4_1912209</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/3fcc3bde98fecef9c59765b83fc46b89.mp3" length="1841805" type="audio/mpeg"/>
+			<content:encoded><![CDATA[Soli Deo gloria is the motto that grew out of the Protestant Reformation and was used on every composition by Johann Sebastian Bach.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>Soli Deo gloria is the motto that grew out of the Protestant Reformation and was used on every composition by Johann Sebastian Bach.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:05:07</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[Searching for GIFs with Alfred, Revisited]]></title>
+			<description><![CDATA[I am a big fan of the GIFWrapped app by my buddy Jelly for building my own private collection, but sometimes I want to search for something quickly from my Mac.]]></description>
+			<link>https://512pixels.net/2021/10/searching-for-gifs-with-alfred-revisited/</link>
+			<guid isPermaLink="false">4_1912208</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2022/02/07/9d8a23c8c993ce5ca20ca64196ae7a3b.mp3" length="295965" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I am a big fan of the GIFWrapped app by my buddy Jelly for building my own private collection, but sometimes I want to search for something quickly from my Mac.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I am a big fan of the GIFWrapped app by my buddy Jelly for building my own private collection, but sometimes I want to search for something quickly from my Mac.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:00:49</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+<item>
+			<title><![CDATA[How to encrypt your entire life in less than an hour]]></title>
+			<description><![CDATA[I’ll still be here when you get back. Tip #2: Encrypt your hard drive Both Windows and MacOS have built-in full-disk encryption. You just need to turn it on.]]></description>
+			<link>https://www.freecodecamp.org/news/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3/</link>
+			<guid isPermaLink="false">4_545275</guid>
+			<pubDate>Mon, 07 Feb 2022 12:00:00 -0500</pubDate>
+			<enclosure url="https://media.getmatter.app/media/audio_content/2021/10/16/ddf521cf01418ab206c89d51e8363432.mp3" length="1670061" type="audio/mpeg"/>
+			<content:encoded><![CDATA[I’ll still be here when you get back. Tip #2: Encrypt your hard drive Both Windows and MacOS have built-in full-disk encryption. You just need to turn it on.]]></content:encoded>
+			<itunes:author>Matter</itunes:author>
+			<itunes:subtitle></itunes:subtitle>
+			<itunes:summary>I’ll still be here when you get back. Tip #2: Encrypt your hard drive Both Windows and MacOS have built-in full-disk encryption. You just need to turn it on.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:38</itunes:duration>
+			<itunes:image href="https://cdn.macstories.net/lwkzzvsq_400x400-1639710673495.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+</channel>
+</rss>
